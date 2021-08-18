@@ -1,0 +1,19 @@
+
+public class ValodarNota {
+
+	public static void main(String[] args) {
+		
+		int notaAluno = 10;
+		int notaCorte = 11;
+		
+		if(notaAluno >= notaCorte) {
+		System.out.println("Aluno aprovado");
+					
+		}else {
+			System.out.println("Aluno Reprovado");
+			
+		}
+
+	}
+
+}

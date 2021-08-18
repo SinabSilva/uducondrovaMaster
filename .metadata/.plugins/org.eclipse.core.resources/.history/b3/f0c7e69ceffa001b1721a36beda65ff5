@@ -1,0 +1,26 @@
+
+public class PagamentoVista {
+
+	public static void main(String[] args) {
+		
+		double saldoCliente = 1000.50;
+		double valorProduto = 600.00;
+		int qtdProduto;
+		
+		
+		if(saldoCliente >= valorProduto) {
+			
+System.out.println("compra aprovada");
+
+		}else {
+			
+			
+			
+			
+		}
+
+		
+
+	}
+
+}
